@@ -1,0 +1,13 @@
+*{
+	font-family:tahoma,arial,"宋体","微软雅黑","Hiragino Sans GB",sans-serif !important;;
+	font-size:14px;
+	margin:0;
+	padding:0;
+	letter-spacing:2px;
+}
+ul,li{
+	list-style:none;
+}
+img{
+	border:none;
+}

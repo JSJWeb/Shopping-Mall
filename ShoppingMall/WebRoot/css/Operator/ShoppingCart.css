@@ -1,0 +1,89 @@
+.goodTable
+		{
+			
+			width:990px;
+			margin:0 auto;
+			margin-top:50px;
+			color:#3C3C3C;
+		}
+		.goodTable ul
+		{
+			float:left;
+		}
+		.goodTable ul li
+		{
+			float:left;
+			width:100px;
+			
+		}
+		
+		.goodTable ul .info
+		{
+			width:366px;
+			padding-right:50px;
+		}
+		.goodTable .tableHeader
+		{
+			padding-top:22px;
+			padding-bottom:32px;
+			padding-left:22px;
+			border-top:1px solid #E6E6E6;
+		}
+		
+		.goodTable .tableGoodContent
+		{
+			float:left;
+			border:1px solid #E6E6E6;
+			padding:22px;
+			margin-top:12px;
+			margin-bottom:30px;
+		}
+		input[type="checkbox"]
+		{
+			outline:none;
+			background:#fff;
+			margin-right:10px;
+		}
+		.goodTable .tableGoodContent a
+		{
+			color:#3C3C3C;
+			cursor:pointer;
+		}
+		.goodTable .tableGoodContent a:hover
+		{
+			color:#FF6600;
+		}
+		span
+		{
+			color:#f00;
+			font-weight:bold;
+		}
+		.goodTable .census
+		{
+			padding-left:22px;
+
+			background:#E5E5E5;
+		}
+		.goodTable .census li 
+		{
+			padding:12px 0px;
+		}
+		.goodTable .census li:last-child
+		{
+			padding:0;
+			padding-left:84px;
+		}
+		.goodTable .census .info
+		{
+			padding-right:50px;
+		}
+		.goodTable input.btn
+		{
+			width:120px;
+			height:50px;
+			background:#B0B0B0;
+			color:#fff;
+			cursor:not-allowed;
+			border:none;
+		}
+		

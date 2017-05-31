@@ -1,0 +1,58 @@
+#customer{
+	background:#FF6633;
+}
+.custManager
+{
+	width:1000px;
+	margin:0 auto;
+	color:#333333;
+}	
+.custManager form{
+	padding-top:70px;
+}
+.custManager form input
+{
+	width:250px;
+	height:35px;
+	border:1px solid #FF9966;
+	color:#FF6700;
+	padding-left:10px;
+	
+}		
+.custManager input.btn
+{
+	width:100px;
+	height:35px;
+	background-color:#FF9966;
+	border:none;
+	margin-left:-6px;
+	margin-top:-6px;
+	cursor:pointer;
+	color:#fff;
+	padding:0;
+}	
+.custManager input.btn:hover
+{
+	background-color:#FF6705;
+}
+.custManager .searchUser{
+	float:right;
+}	
+.custManager form span
+{
+	display:inline-block;
+	width:80px;
+	height:33px;
+	border:1px solid #CCCCCC;
+	line-height:35px;
+	padding-left:12px;
+	color:#707070;
+}
+.custManager select
+{
+	border:1px solid #CCCCCC;
+	color:#CCCCCC;
+	width:70px;
+	height:35px;
+	outline:none;
+}

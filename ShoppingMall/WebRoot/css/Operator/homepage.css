@@ -1,0 +1,95 @@
+		#homepage{
+			background:#FF6633;
+		}
+		.bg{
+			width:1000px;
+			margin:0 auto;
+		}
+		.bg .left-content{
+			float:left;
+			margin:36px 50px 0px 0px;
+		}
+		.bg .left-content ul{
+			
+		}
+		.bg .left-content ul li{
+			background:#FF9966;
+			padding-left:20px;
+			margin-bottom:30px;
+		}
+		.bg .left-content ul li a{
+			cursor:pointer;
+			display:inline-block;
+			width:100px;
+			padding:12px 0 12px 20px;
+			color:#003399;
+			background:#fff;
+			font-weight:bold;
+			text-decoration:underline;
+		}
+		.bg .left-content ul li a:hover{
+			text-decoration:none;
+		}
+		.bg .right-content{
+			float:left;
+			margin-top:60px;
+			margin-left:150px;
+			margin-bottom:40px;
+		}
+		.bg .right-content div{
+			width:500px;
+		}
+		.bg label{
+			display:inline-block;
+			width:100px;
+			text-align:right;
+		}
+		.bg input{
+			width:300px;
+			height:42px;
+			font-size:20px;
+			display:inline-block;
+			margin-top:26px;
+			margin-left:25px;
+			padding-left:10px;
+			background:#FEDCCC;
+			color: #FA8350;  
+			border: 1px solid #FFBC9E;    
+    		border-radius: 4px; 
+    		outline: none; 
+		}
+		
+		 .bg input.date{
+			width:40px;
+			margin:0;
+		}
+		.bg input.first{
+			margin-left:25px;
+			width:80px;
+		}
+		.bg .sex{
+			width:15px;
+			height:15px;
+			margin-bottom:30px;
+		}
+		
+		.bg .btn{
+			cursor:pointer;
+			color:#E8E8E8;
+			background:#FF9966;
+			border:1px solid #FDDFD2;
+			border-bottom:1px solid #F9885B;
+			margin-left:100px;
+		}
+		.bg .btn:hover{
+			background:#F98451;
+			color:#E84A07;
+		}
+		.bg .btn:active{
+			border:1px solid #F77744;
+			border-bottom:1px solid #FDDFD2;
+			background:#F9885B;
+			
+		}
+		
+		.bg singleUser 
